@@ -1,0 +1,18 @@
+repo_name: nice-org-two/aws-terraform
+report_id: e58da47b5ac9624261717129ecd7e6ae
+repo_type: Public
+timestamp: '2023-11-06T13:20:06+00:00'
+requested_by: jonrau1
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  imageURL: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
