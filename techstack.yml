@@ -1,7 +1,8 @@
 repo_name: nice-org-two/aws-terraform
-report_id: b64dc5b265f3a70bf3f3266226733031
+report_id: aa7d90fe29861e4c1934c3a4ece6397f
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-13T18:02:52+00:00'
+timestamp: '2024-03-06T18:30:19+00:00'
 requested_by: jonrau1
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/nice-org-two/aws-terraform
   detection_source: Repo Metadata
